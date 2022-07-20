@@ -14,6 +14,8 @@ rcs_id='$Id: install.sh,v 1.5 1999/11/01 20:19:21 tony Exp $'
 
 filelist='cows'
 
+cwd=$(cd "$(dirname "$0")" && pwd)
+
 cat <<DOG
 ===================
 cowsay Installation
@@ -66,19 +68,19 @@ PREFIX=${prefix:-/usr/local}
 
 echo Okay, time to install this puppy.
 
-echo s,%BANGPERL%,!$usethisperl,\; > install.pl
-echo s,%PREFIX%,$PREFIX,\; >> install.pl
+echo s,%BANGPERL%,!$usethisperl,\; > $cwd/install.pl
+echo s,%PREFIX%,$PREFIX,\; >> $cwd/install.pl
 set -x
 mkdir -p $PREFIX/bin || (mkdir $PREFIX; mkdir $PREFIX/bin)
-$usethisperl -p install.pl cowsay > $PREFIX/bin/cowsay
+$usethisperl -p $cwd/install.pl $cwd/cowsay > $PREFIX/bin/cowsay
 chmod a+x $PREFIX/bin/cowsay
 ln -s cowsay $PREFIX/bin/cowthink
 mkdir -p $PREFIX/man/man1 || ($mkdir $PREFIX; mkdir $PREFIX/man; mkdir $PREFIX/man/man1)
-$usethisperl -p install.pl cowsay.1 > $PREFIX/man/man1/cowsay.1
+$usethisperl -p $cwd/install.pl $cwd/cowsay.1 > $PREFIX/man/man1/cowsay.1
 chmod a+r $PREFIX/man/man1/cowsay.1
 ln -s cowsay.1 $PREFIX/man/man1/cowthink.1
 mkdir -p $PREFIX/share/cows || (mkdir $PREFIX; mkdir $PREFIX/share; mkdir $PREFIX/share/cows)
-tar -cf - $filelist | (cd $PREFIX/share && tar -xvf -)
+tar -C $cwd -cf - $filelist | (cd $PREFIX/share && tar -xvf -)
 set +x
 
 echo Okay, let us see if the install actually worked.
