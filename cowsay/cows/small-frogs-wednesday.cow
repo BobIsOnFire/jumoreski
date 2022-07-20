@@ -1,0 +1,17 @@
+##
+## The Small Frogs (Egor Zudin request)
+##
+$the_cow = <<EOC;
+                  $thoughts
+              _    $thoughts    _
+  __   ___.--'_`.   $thoughts .'_`--.___   __
+ ( _`.'. -   'o` )   ( 'o`   - .`.'_ )
+ _\\.'_'      _.-' $thoughts   `-._      `_`./_
+( \\`. )    //\\`    $thoughts    '/\\\\    ( .'/ )
+ \\_`-'`---'\\\\__,    $thoughts  ,__//`---'`-'_/
+  \\`        `-\\      $thoughts  /-'        '/
+   `                  $thoughts            '
+        _______________${thoughts}_________________
+       < P.S. It is Wednesday, my dudes. >
+        ---------------------------------
+EOC
