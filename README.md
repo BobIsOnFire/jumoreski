@@ -11,10 +11,14 @@
   - [Cowsay](#cowsay)
   - [Jumoreski Themselves](#jumoreski-themselves)
   - [Bash Integration](#bash-integration)
-  - [Package Managers](#package-managers)
 - [Licensing](#licensing)
 
 # Install Jumoreski
+
+Some installation guides for specific OS / distributions / package managers:
+- [Gentoo/Portage](./INSTALL.gentoo.md)
+
+If you use different system, follow general instructions below.
 
 ## Prerequisites
 
@@ -55,10 +59,6 @@ $ cat jumoreski.sh >>~/.bashrc
 Now you can restart your shell and use any of the commands written in `jumoreski.sh` or `fortune`, `cowsay` and `lolcat` commands directly.
 
 You can also `echo 'print_jumoreski' >>~/.bashrc` to have a random one printed every time you open the terminal, with a special message on Wednesdays!
-
-## Package Managers
-
-- [Gentoo/Portage](./INSTALL.gentoo.md)
 
 # Licensing
 
