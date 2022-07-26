@@ -41,19 +41,20 @@ Make sure you have `perl` installed. After that, run `sh cowsay/install.sh` (wit
 Put Jumoreski files somewhere where everyone can access them. If you don't want them in `/usr/share/games`, please also change their path in `jumoreski.sh` script!
 
 ```bash
-$ sudo cp -R jumoreski/ /usr/share/games/
+$ sudo cp ./fortune/jumoreski /usr/share/games/
+$ sudo strfile /usr/share/games/jumoreski
 ```
 
 ## Bash Integration
 
 Make functions available to everyone:
 ```bash
-$ sudo cp jumoreski.sh /etc/profile.d/
+$ sudo cp ./jumoreski.sh /etc/profile.d/
 ```
 
 Or just for yourself:
 ```bash
-$ cat jumoreski.sh >>~/.bashrc
+$ cat ./jumoreski.sh >>~/.bashrc
 ```
 
 Now you can restart your shell and use any of the commands written in `jumoreski.sh` or `fortune`, `cowsay` and `lolcat` commands directly.

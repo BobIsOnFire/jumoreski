@@ -11,5 +11,5 @@ function print_motd() {
 }
 
 function print_jumoreski() {
-    print_motd /usr/share/games/jumoreski/jumoreski
+    print_motd /usr/share/games/jumoreski
 }
