@@ -2,7 +2,7 @@ function print_motd() {
     datafile=$1
     # Run only in an interactive shell
     if [ ! -z "$PS1" ]; then
-        fortune $datafile | if [ "`date +"%A"`" = "Wednesday" ]; then
+        fortune $datafile | if [ "`date +"%w"`" = "3" ]; then
             cowsay -f small-frogs-wednesday -W 80
         else
             cowsay -W 80
