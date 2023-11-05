@@ -1,0 +1,1097 @@
+tlf2a 6 3 8 -1 22 0 0 0
+===============================================================================
+  This is future.tlf, or “Future”, by Sam Hocevar.
+
+  2006/10/01 -- Sam Hocevar <sam@hocevar.net>
+                font creation
+                still missing: # % ( ) * / < > \ ^ ~
+  2006/10/02 -- Sam Hocevar <sam@hocevar.net>
+                added Unicode block and line glyphs
+                added: % ( ) * / \ ~
+                fixed: & 2 5 X
+
+  This font is free software. It comes without any warranty, to the extent
+permitted by applicable law. You can redistribute it and/or modify it under
+the terms of the Do What The Fuck You Want To Public License, Version 2,
+as published by Sam Hocevar. See http://sam.zoy.org/wtfpl/COPYING for more
+details.
+
+  Missing characters: # < > ^
+
+  This font is part of TOIlet’s official distribution. More information
+on the TOIlet website at http://caca.zoy.org/wiki/toilet
+===============================================================================
+  @
+  @
+  @
+  @
+  @
+  @@
+╻!
+┃!
+┃!
+╹!
+╹!
+ !!
+╻╻"
+  "
+  "
+  "
+  "
+  ""
+ @
+ @
+ @
+ @
+#@
+ @@
+┏━┳━┓$
+┃ ┃ ╹$
+┗━╋━┓$
+╻ ┃ ┃$
+┗━┻━┛$
+     $$
+┏━┓ ┏%
+┗━┛┏┛%
+ ┏━┛ %
+┏┛┏━┓%
+┛ ┗━┛%
+     %%
+┏━┓  &
+┃ ┃╻ &
+┣━┻╋┓&
+┃  ┃ &
+┗━━┛ &
+     &&
+╻'
+ '
+ '
+ '
+ '
+ ''
+┏━╸(
+┃  (
+┃  (
+┃  (
+┗━╸(
+  ((
+╺━┓)
+  ┃)
+  ┃)
+  ┃)
+╺━┛)
+  ))
+╺┓╻┏╸*
+ ╺╋╸ *
+╺┛╹┗╸*
+     *
+     *
+     **
+     +
+     +
+  ╻  +
+╺━╋━╸+
+  ╹  +
+     ++
+  ,
+  ,
+  ,
+  ,
+╺┛,
+  ,,
+     -
+     -
+     -
+╺━━━╸-
+     -
+     --
+ .
+ .
+ .
+ .
+╹.
+ ..
+   ┏/
+  ┏┛/
+ ┏┛ /
+┏┛  /
+┛   /
+    //
+┏━━━┓0
+┃ ┃ ┃0
+┃ ┃ ┃0
+┃ ┃ ┃0
+┗━━━┛0
+     00
+╺━┓  1
+  ┃  1
+  ┃  1
+  ┃  1
+╺━┻━╸1
+     11
+┏━━━┓2
+╹   ┃2
+┏━━━┛2
+┃    2
+┗━━━╸2
+     22
+┏━━━┓3
+    ┃3
+╺━━━┫3
+    ┃3
+┗━━━┛3
+     33
+╻   ╻4
+┃   ┃4
+┗━━━┫4
+    ┃4
+    ╹4
+     44
+┏━━━╸5
+┃    5
+┗━━━┓5
+╻   ┃5
+┗━━━┛5
+     55
+┏━━━┓6
+┃   ╹6
+┣━━━┓6
+┃   ┃6
+┗━━━┛6
+     66
+┏━━━┓7
+    ┃7
+    ┃7
+    ┃7
+    ╹7
+     77
+┏━━━┓8
+┃   ┃8
+┣━━━┫8
+┃   ┃8
+┗━━━┛8
+     88
+┏━━━┓9
+┃   ┃9
+┗━━━┫9
+╻   ┃9
+┗━━━┛9
+   99
+ :
+ :
+╻:
+╻:
+ :
+ ::
+  ;
+  ;
+ ╻;
+ ╻;
+ ┛;
+  ;;
+ @
+ @
+ @
+ @
+<@
+ @@
+    =
+    =
+╺━━╸=
+╺━━╸=
+    =
+    ==
+ @
+ @
+ @
+ @
+>@
+ @@
+┏━┓?
+┃ ┃?
+ ┏┛?
+ ╹ ?
+ ╹ ?
+   ??
+    @
+┏━━┓@
+┃┏┓┃@
+┃┃┃┃@
+┃┗┻┛@
+┗━━┛@@
+┏━━━┓A
+┃   ┃A
+┣━━━┫A
+┃   ┃A
+╹   ╹A
+     AA
+┏━━┓ B
+┃  ┃ B
+┣━━┻┓B
+┃   ┃B
+┗━━━┛B
+     BB
+┏━━━╸C
+┃    C
+┃    C
+┃    C
+┗━━━╸C
+     CC
+╺┳━━┓D
+ ┃  ┃D
+ ┃  ┃D
+ ┃  ┃D
+╺┻━━┛D
+     DD
+┏━━━╸E
+┃    E
+┣━━╸ E
+┃    E
+┗━━━╸E
+     EE
+┏━━━╸F
+┃    F
+┣━━╸ F
+┃    F
+╹    F
+     FF
+┏━━━╸G
+┃    G
+┃ ╺━┓G
+┃   ┃G
+┗━━━┛G
+     GG
+╻   ╻H
+┃   ┃H
+┣━━━┫H
+┃   ┃H
+╹   ╹H
+     HH
+╺┳╸I
+ ┃ I
+ ┃ I
+ ┃ I
+╺┻╸I
+   II
+ ┏━━┓J
+    ┃J
+    ┃J
+    ┃J
+┗━━━┛J
+     JJ
+╻ ┏━ K
+┃ ┃  K
+┣━┻━┓K
+┃   ┃K
+╹   ╹K
+     KK
+╻    L
+┃    L
+┃    L
+┃    L
+┗━━━╸L
+     LL
+┏━┳━┓M
+┃ ┃ ┃M
+┃ ┃ ┃M
+┃ ╹ ┃M
+╹   ╹M
+     MM
+┏━┓ ╻N
+┃ ┃ ┃N
+┃ ┗━┫N
+┃   ┃N
+╹   ╹N
+     NN
+┏━━━┓O
+┃   ┃O
+┃   ┃O
+┃   ┃O
+┗━━━┛O
+     OO
+┏━━━┓P
+┃   ┃P
+┣━━━┛P
+┃    P
+╹    P
+     PP
+┏━━━┓Q
+┃   ┃Q
+┃   ┃Q
+┃   ┃Q
+┗━┳━┛Q
+  ┗━┛QQ
+┏━━━┓R
+┃   ┃R
+┣━━┳┛R
+┃  ┃ R
+╹  ┗╸R
+     RR
+┏━━━┓S
+┃   ╹S
+┗━━━┓S
+╻   ┃S
+┗━━━┛S
+     SS
+╺━┳━╸T
+  ┃  T
+  ┃  T
+  ┃  T
+  ╹  T
+     TT
+╻   ╻U
+┃   ┃U
+┃   ┃U
+┃   ┃U
+┗━━━┛U
+     UU
+╻   ╻V
+┃   ┃V
+┃   ┃V
+┗┓ ┏┛V
+ ┗━┛ V
+     VV
+╻   ╻W
+┃   ┃W
+┃ ╻ ┃W
+┃ ┃ ┃W
+┗━┻━┛W
+     WW
+┓  ┏X
+┗┓┏┛X
+ ┣┫ X
+┏┛┗┓X
+┛  ┗X
+    XX
+╻   ╻Y
+┃   ┃Y
+┗━┳━┛Y
+  ┃  Y
+  ╹  Y
+     YY
+╺━━━┓Z
+  ┏┛ Z
+ ┏┛  Z
+┏┛   Z
+┗━━━╸Z
+     ZZ
+┏━━ [
+┃   [
+┃   [
+┃   [
+┗━━ [ 
+    [[
+┓   \
+┗┓  \
+ ┗┓ \
+  ┗┓\
+   ┗\
+    \\
+ ━━┓]
+   ┃]
+   ┃]
+   ┃]
+ ━━┛]
+   ]]
+ @
+ @
+ @
+ @
+^@
+ @@
+     _
+     _
+     _
+     _
+╺━━━╸_
+     __
+ ┓`
+  `
+  `
+  `
+  `
+  ``
+   a
+   a
+┏━┓a
+┏━┫a
+┗━┻a
+   aa
+╻  b
+┃  b
+┣━┓b
+┃ ┃b
+┗━┛b
+   bb
+   c
+   c
+┏━╸c
+┃  c
+┗━╸c
+   cc
+  ╻d
+  ┃d
+┏━┫d
+┃ ┃d
+┗━┛d
+   dd
+   e
+   e
+┏━┓e
+┣━┛e
+┗━╸e
+   ee
+ ┏━f
+ ┃ f
+╺╋╸f
+ ┃ f
+ ╹ f
+   ff
+   g
+   g
+┏━┓g
+┃ ┃g
+┗━┫g
+┗━┛gg
+╻  h
+┃  h
+┣━┓h
+┃ ┃h
+╹ ╹h
+   hh
+   i
+ ╻ i
+ ┓ i
+ ┃ i
+╺┻╸i
+   ii
+   j
+  ╻j
+ ╺┓j
+  ┃j
+  ┃j
+┗━┛jj
+╻  k
+┃  k
+┃┏ k
+┣┻┓k
+╹ ╹k
+   kk
+ ╻ l
+ ┃ l
+ ┃ l
+ ┃ l
+╺┻╸l
+   ll
+   m
+   m
+┏┳┓m
+┃┃┃m
+╹ ╹m
+   mm
+   n
+   n
+┏━┓n
+┃ ┃n
+╹ ╹n
+   nn
+   o
+   o
+┏━┓o
+┃ ┃o
+┗━┛o
+   oo
+   p
+   p
+┏━┓p
+┃ ┃o
+┣━┛p
+╹  pp
+   q
+   q
+┏━┓q
+┃ ┃q
+┗━┫q
+  ╹qq
+   r
+   r
+┏━┓r
+┃  r
+╹  r
+   rr
+   s
+   s
+┏━┓s
+┗━┓s
+┗━┛s
+   ss
+ ╻ t
+ ┃ t
+╺╋━t
+ ┃ t
+ ┗━t
+   tt
+   u
+   u
+╻ ╻u
+┃ ┃u
+┗━┛u
+   uu
+   v
+   v
+╻ ╻v
+┃┏┛v
+┗┛ v
+   vv
+   w
+   w
+╻ ╻w
+┃╻┃w
+┗┻┛w
+   ww
+   x
+   x
+╻ ╻x
+┏╋┛x
+╹ ╹x
+   xx
+   y
+   y
+╻ ╻y
+┃ ┃y
+┗━┫y
+┗━┛yy
+   z
+   z
+╺━┓z
+┏━┛z
+┗━╸z
+   zz
+ ┏╸{
+ ┃ {
+╺┫ {
+ ┃ {
+ ┗╸{
+   {{
+╻|
+┃|
+┃|
+┃|
+╹|
+ ||
+╺┓ }
+ ┃ }
+ ┣╸}
+ ┃ }
+╺┛ }
+   }}
+   ~
+   ~
+   ~
+┏━┛~
+   ~
+   ~~
+┏━━━┓┏━━━╸Ä
+┃   ┃┃    Ä
+┣━━━┫┣━━╸ Ä
+┃   ┃┃    Ä
+╹   ╹┗━━━╸Ä
+          ÄÄ
+┏━━━┓┏━━━╸Ö
+┃   ┃┃    Ö
+┃   ┃┣━━╸ Ö
+┃   ┃┃    Ö
+┗━━━┛┗━━━╸Ö
+          ÖÖ
+╻   ╻┏━━━╸Ü
+┃   ┃┃    Ü
+┃   ┃┣━━╸ Ü
+┃   ┃┃    Ü
+┗━━━┛┗━━━╸Ü
+          ÜÜ
+      ä
+      ä
+┏━┓┏━┓ä
+┏━┫┣━┛ä
+┗━┻┗━╸ä
+      ää
+      ö
+      ö
+┏━┓┏━┓ö
+┃ ┃┣━┛ö
+┗━┛┗━╸ö
+      öö
+      ü
+      ü
+╻ ╻┏━┓ü
+┃ ┃┣━┛ü
+┗━┛┗━╸ü
+      üü
+┏━━━┓┏━━━┓ß
+┃   ╹┃   ╹ß
+┗━━━┓┗━━━┓ß
+╻   ┃╻   ┃ß
+┗━━━┛┗━━━┛ß
+          ßß
+0x0410 А CYRILLIC CAPITAL LETTER A
+┏━━━┓@
+┃   ┃@
+┣━━━┫@
+┃   ┃@
+╹   ╹@
+     @@
+0x0411 Б CYRILLIC CAPITAL LETTER BE
+┏━━━╸@
+┃    @
+┣━━━┓@
+┃   ┃@
+┗━━━┛@
+     @@
+0x0412 В CYRILLIC CAPITAL LETTER VE
+┏━━┓ @
+┃  ┃ @
+┣━━┻┓@
+┃   ┃@
+┗━━━┛@
+     @@
+0x0413 Г CYRILLIC CAPITAL LETTER GHE
+┏━━━╸@
+┃    @
+┃    @
+┃    @
+╹    @
+     @@
+0x0414 Д CYRILLIC CAPITAL LETTER DE
+ ┏━━┓ @
+ ┃  ┃ @
+ ┃  ┃ @
+ ┃  ┃ @
+┏┻━━┻┓@
+      @@
+0x0415 Е CYRILLIC CAPITAL LETTER IE
+┏━━━╸@
+┃    @
+┣━━╸ @
+┃    @
+┗━━━╸@
+     @@
+0x0401 Ё CYRILLIC CAPITAL LETTER IO
+┏━━━╸@
+┃    @
+┣━━╸ @
+┃    @
+┗━━━╸@
+     @@
+0x0416 Ж CYRILLIC CAPITAL LETTER ZHE
+╻ ╻ ╻@
+┃ ┃ ┃@
+┏━╋━┛@
+┃ ┃ ┃@
+╹ ╹ ╹@
+     @@
+0x0417 З CYRILLIC CAPITAL LETTER ZE
+┏━━━┓@
+    ┃@
+╺━━━┫@
+    ┃@
+┗━━━┛@
+     @@
+0x0418 И CYRILLIC CAPITAL LETTER I
+╻   ╻@
+┃   ┃@
+┃ ┏━┫@
+┃ ┃ ┃@
+┗━┛ ╹@
+     @@
+0x0419 Й CYRILLIC CAPITAL LETTER SHORT I
+╻ ━ ╻@
+┃   ┃@
+┃ ┏━┫@
+┃ ┃ ┃@
+┗━┛ ╹@
+     @@
+0x041A К CYRILLIC CAPITAL LETTER KA
+╻ ┏━ @
+┃ ┃  @
+┣━┻━┓@
+┃   ┃@
+╹   ╹@
+     @@
+0x041B Л CYRILLIC CAPITAL LETTER EL
+ ┏━━┓@
+ ┃  ┃@
+ ┃  ┃@
+ ┃  ┃@
+┗┛  ╹@
+     @@
+0x041C М CYRILLIC CAPITAL LETTER EM
+┏━┳━┓@
+┃ ┃ ┃@
+┃ ┃ ┃@
+┃ ╹ ┃@
+╹   ╹@
+     @@
+0x041D Н CYRILLIC CAPITAL LETTER EN
+╻   ╻@
+┃   ┃@
+┣━━━┫@
+┃   ┃@
+╹   ╹@
+     @@
+0x041E О CYRILLIC CAPITAL LETTER O
+┏━━━┓@
+┃   ┃@
+┃   ┃@
+┃   ┃@
+┗━━━┛@
+     @@
+0x041F П CYRILLIC CAPITAL LETTER PE
+┏━━━┓@
+┃   ┃@
+┃   ┃@
+┃   ┃@
+╹   ╹@
+     @@
+0x0420 Р CYRILLIC CAPITAL LETTER ER
+┏━━━┓@
+┃   ┃@
+┣━━━┛@
+┃    @
+╹    @
+     @@
+0x0421 С CYRILLIC CAPITAL LETTER ES
+┏━━━╸@
+┃    @
+┃    @
+┃    @
+┗━━━╸@
+     @@
+0x0422 Т CYRILLIC CAPITAL LETTER TE
+╺━┳━╸@
+  ┃  @
+  ┃  @
+  ┃  @
+  ╹  @
+     @@
+0x0423 У CYRILLIC CAPITAL LETTER U
+╻   ╻@
+┃   ┃@
+┗━━━┫@
+    ┃@
+┗━━━┛@
+     @@
+0x0424 Ф CYRILLIC CAPITAL LETTER EF
+┏━┳━┓@
+┃ ┃ ┃@
+┗━╋━┛@
+  ┃  @
+  ╹  @
+     @@
+0x0425 Х CYRILLIC CAPITAL LETTER HA
+┓  ┏@
+┗┓┏┛@
+ ┣┫ @
+┏┛┗┓@
+┛  ┗@
+    @@
+0x0426 Ц CYRILLIC CAPITAL LETTER TSE
+╻   ╻ @
+┃   ┃ @
+┃   ┃ @
+┃   ┃ @
+┗━━━┻┓@
+      @@
+0x0427 Ч CYRILLIC CAPITAL LETTER CHE
+╻   ╻@
+┃   ┃@
+┗━━━┫@
+    ┃@
+    ╹@
+     @@
+0x0428 Ш CYRILLIC CAPITAL LETTER SHA
+╻ ╻ ╻@
+┃ ┃ ┃@
+┃ ┃ ┃@
+┃ ┃ ┃@
+┗━┻━┛@
+     @@
+0x0429 Щ CYRILLIC CAPITAL LETTER SHCHA
+╻ ╻ ╻ @
+┃ ┃ ┃ @
+┃ ┃ ┃ @
+┃ ┃ ┃ @
+┗━┻━┻┓@
+      @@
+0x042A Ъ CYRILLIC CAPITAL LETTER HARD SIGN
+╺┓   @
+ ┃   @
+ ┣━━┓@
+ ┃  ┃@
+ ┗━━┛@
+     @@
+0x042B Ы CYRILLIC CAPITAL LETTER YERU
+╻    ╻@
+┃    ┃@
+┣━━┓ ┃@
+┃  ┃ ┃@
+┗━━┛ ╹@
+      @@
+0x042C Ь CYRILLIC CAPITAL LETTER SOFT SIGN
+╻   @
+┃   @
+┣━━┓@
+┃  ┃@
+┗━━┛@
+    @@
+0x042D Э CYRILLIC CAPITAL LETTER E
+╺━━━┓@
+    ┃@
+╺━━━┫@
+    ┃@
+╺━━━┛@
+     @@
+0x042E Ю CYRILLIC CAPITAL LETTER YU
+╻ ┏━━┓@
+┃ ┃  ┃@
+┣━┫  ┃@
+┃ ┃  ┃@
+╹ ┗━━┛@
+      @@
+0x042F Я CYRILLIC CAPITAL LETTER YA
+┏━━━┓@
+┃   ┃@
+┗┳━━┫@
+ ┃  ┃@
+╺┛  ╹@
+     @@
+0x0430 а CYRILLIC SMALL LETTER A
+   @
+   @
+┏━┓@
+┏━┫@
+┗━┻@
+   @@
+0x0431 б CYRILLIC SMALL LETTER BE
+   @
+   @
+┏━┛@
+┣━┓@
+┗━┛@
+   @@
+0x0432 в CYRILLIC SMALL LETTER VE
+   @
+   @
+┏┓ @
+┣┻┓@
+┗━┛@
+   @@
+0x0433 г CYRILLIC SMALL LETTER GHE
+   @
+   @
+┏━╸@
+┃  @
+╹  @
+   @@
+0x0434 д CYRILLIC SMALL LETTER DE
+    @
+    @
+ ┏┓ @
+ ┃┃ @
+┏┻┻┓@
+    @@
+0x0435 е CYRILLIC SMALL LETTER IE
+   @
+   @
+┏━┓@
+┣━┛@
+┗━╸@
+   @@
+0x0451 ё CYRILLIC SMALL LETTER IO
+   @
+. .@
+┏━┓@
+┣━┛@
+┗━╸@
+   @@
+0x0436 ж CYRILLIC SMALL LETTER ZHE
+   @
+   @
+╻╻╻@
+┏╋┛@
+╹╹╹@
+   @@
+0x0437 з CYRILLIC SMALL LETTER ZE
+   @
+   @
+┏━┓@
+╺━┫@
+┗━┛@
+   @@
+0x0438 и CYRILLIC SMALL LETTER I
+   @
+   @
+╻ ╻@
+┃┏┫@
+┗┛╹@
+   @@
+0x0439 й CYRILLIC SMALL LETTER SHORT I
+   @
+   @
+╻━╻@
+┃┏┫@
+┗┛╹@
+   @@
+0x043A к CYRILLIC SMALL LETTER KA
+   @
+   @
+╻┏ @
+┣┻┓@
+╹ ╹@
+   @@
+0x043B л CYRILLIC SMALL LETTER EL
+   @
+   @
+ ┏┓@
+ ┃┃@
+┗┛╹@
+   @@
+0x043C м CYRILLIC SMALL LETTER EM
+   @
+   @
+┏┳┓@
+┃┃┃@
+╹ ╹@
+   @@
+0x043D н CYRILLIC SMALL LETTER EN
+   @
+   @
+╻ ╻@
+┣━┫@
+╹ ╹@
+   @@
+0x043E о CYRILLIC SMALL LETTER O
+   @
+   @
+┏━┓@
+┃ ┃@
+┗━┛@
+   @@
+0x043F п CYRILLIC SMALL LETTER PE
+   @
+   @
+┏━┓@
+┃ ┃@
+╹ ╹@
+   @@
+0x0440 р CYRILLIC SMALL LETTER ER
+   @
+   @
+┏━┓@
+┃ ┃@
+┣━┛@
+╹  @@
+0x0441 с CYRILLIC SMALL LETTER ES
+   @
+   @
+┏━╸@
+┃  @
+┗━╸@
+   @@
+0x0442 т CYRILLIC SMALL LETTER TE
+   @
+   @
+╺┳╸@
+ ┃ @
+ ╹ @
+   @@
+0x0443 у CYRILLIC SMALL LETTER U
+   @
+   @
+╻ ╻@
+┃ ┃@
+┗━┫@
+┗━┛@@
+0x0444 ф CYRILLIC SMALL LETTER EF
+   @
+ ╻ @
+┏╋┓@
+┃┃┃@
+┗╋┛@
+ ╹ @@
+0x0445 х CYRILLIC SMALL LETTER HA
+   @
+   @
+╻ ╻@
+┏╋┛@
+╹ ╹@
+   @@
+0x0446 ц CYRILLIC SMALL LETTER TSE
+    @
+    @
+╻ ╻ @
+┃ ┃ @
+┗━┻┓@
+    @@
+0x0447 ч CYRILLIC SMALL LETTER CHE
+   @
+   @
+╻ ╻@
+┗━┫@
+  ╹@
+   @@
+0x0448 ш CYRILLIC SMALL LETTER SHA
+   @
+   @
+╻╻╻@
+┃┃┃@
+┗┻┛@
+   @@
+0x0449 щ CYRILLIC SMALL LETTER SHCHA
+    @
+    @
+╻╻╻ @
+┃┃┃ @
+┗┻┻┓@
+    @@
+0x044A ъ CYRILLIC SMALL LETTER HARD SIGN
+   @
+   @
+╺┓ @
+ ┣┓@
+ ┗┛@
+   @@
+0x044B ы CYRILLIC SMALL LETTER YERU
+   @
+   @
+╻ ╻@
+┣┓┃@
+┗┛╹@
+   @@
+0x044C ь CYRILLIC SMALL LETTER SOFT SIGN
+  @
+  @
+╻ @
+┣┓@
+┗┛@
+  @@
+0x044D э CYRILLIC SMALL LETTER E
+   @
+   @
+╺━┓@
+╺━┫@
+╺━┛@
+   @@
+0x044E ю CYRILLIC SMALL LETTER YU
+   @
+   @
+╻┏┓@
+┣┫┃@
+╹┗┛@
+   @@
+0x044F я CYRILLIC SMALL LETTER YA
+   @
+   @
+┏━┓@
+┗┳┫@
+╺┛╹@
+   @@
